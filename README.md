@@ -1,4 +1,4 @@
-# YOLOv5_YOLOv8_training_custom_dataset
+# Training the [BDD100k](https://www.bdd100k.com/) dataset with YOLOv5 and YOLOv8.
 ## To fully understand this project, you should have a look at our previous repository [Custom model for Vehicle Detection with TensorFlow 2 Detection Model Zoo with bdd100k.](https://github.com/mod-ibr/Custom_Vehicle_Detection-with-TensorFlow-_Model_Zoo_with_bdd100k.git)
 ## This project is just for proof of concept.
 
