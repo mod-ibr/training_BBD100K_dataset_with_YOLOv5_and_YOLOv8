@@ -1,5 +1,6 @@
 # YOLOv5_YOLOv8_training_custom_dataset
-## Convert A XML_VOC annotations of the BDD100k dataset to YOLO format and training a custom dataset for vehicles with YOLOv5, YOLOv8
+1. Convert the XML_VOC annotations of the BDD100k dataset to YOLO format.
+2. Training the BDD100K with YOLOv5, and YOLOv8.
 
 
 ### YOLOv5 Results
